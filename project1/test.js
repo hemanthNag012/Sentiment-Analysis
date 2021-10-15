@@ -1,0 +1,3 @@
+$("#myCarousel").carousel({
+  interval: true
+});
