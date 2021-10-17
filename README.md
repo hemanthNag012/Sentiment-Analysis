@@ -4,7 +4,8 @@ This project embodies reading, analysing and understanding intent of various dat
 Sentiment Analysis, as the name suggests, it means to identify the view or emotion behind a situation. It basically means to analyze and find the emotion or intent behind a piece of text or speech or any mode of communication. This application focuses on the sentiment analysis of 
 Due to pandemic most of us did not have any physical contact, no face to face interaction with friends or anyone. Because of this it may lead to mental illness.
 So to help people we have created a Sentiment detection Application.
-
+<br>
+Our sentiment analysis is mostly based on employees.
 
 <h3>Software Used</h3>
 PowerBI
