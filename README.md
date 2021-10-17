@@ -5,7 +5,7 @@ Sentiment Analysis, as the name suggests, it means to identify the view or emoti
 Due to pandemic most of us did not have any physical contact, no face to face interaction with friends or anyone. Because of this it may lead to mental illness.
 So to help people we have created a Sentiment detection Application.
 <br>
-Our sentiment analysis is mostly based on employees.
+This project consists of sentiment analysis of employees on various entities and visualizes the output to you using Power BI.
 
 <h3>Software Used</h3>
 PowerBI
