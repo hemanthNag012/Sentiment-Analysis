@@ -11,6 +11,10 @@ PowerBI
 <h3>Languages Used</h3>
 <li>
   <ui>HTML 5</ui>
-  <ui>CSS 3</ui>
-  <ui>JavaScript</ui>
   </li>
+  <li>
+  <ui>CSS 3</ui>
+  </li>
+  <li>
+  <ui>JavaScript</ui>
+</li>
