@@ -25,6 +25,12 @@ PowerBI, VS Code
 
 
 <h3>Requirements</h3>
+<li>
 Any Browser (Chrome recommended)
+  </li>
+  <li>
 PowerBI
+  </li>
+    <li>
 Microsoft Teams
+</li>
