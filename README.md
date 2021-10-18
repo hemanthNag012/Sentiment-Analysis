@@ -26,11 +26,11 @@ PowerBI, VS Code
 
 <h3>Requirements</h3>
 <li>
-Any Browser (Chrome recommended)
+<ui>Any Browser (Chrome recommended)</ui>
   </li>
   <li>
-PowerBI
+<ui>PowerBI</ui>
   </li>
     <li>
-Microsoft Teams
+<ui>Microsoft Teams</ui>
 </li>
