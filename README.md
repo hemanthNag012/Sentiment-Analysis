@@ -28,7 +28,7 @@ This project consists of sentiment analysis of employees on various entities and
 
 
 
-<h3>Requirements</h3>
+<h3>Requirements:</h3>
 <li>
 <ui>Any Browser (Chrome recommended)</ui>
   </li>
