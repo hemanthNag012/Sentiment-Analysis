@@ -13,7 +13,6 @@ This project consists of sentiment analysis of employees on various entities and
   <li>VS Code</li>
 </ol>
   
-PowerBI, VS Code
 
 <h3>Languages Used</h3>
 <li>
