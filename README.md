@@ -8,10 +8,10 @@ So to help people we have created a Sentiment detection Application.
 This project consists of sentiment analysis of employees on various entities and visualizes the output to you using Power BI.
 
 <h3>Software Used</h3>
-<li>
-  <ui>PowerBI</ui>
-  <ui>VS Code</ui>
-</li>
+<ol>
+  <li>PowerBI</li>
+  <li>VS Code</li>
+</ol>
   
 PowerBI, VS Code
 
