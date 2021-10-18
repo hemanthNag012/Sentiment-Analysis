@@ -2,8 +2,8 @@
 <strong><h2>About</h2></strong>
 This project embodies reading, analysing and understanding intent of various data.
 Sentiment Analysis, as the name suggests, it means to identify the view or emotion behind a situation. It basically means to analyze and find the emotion or intent behind a piece of text or speech or any mode of communication. This application focuses on the sentiment analysis of employees.
-Due to pandemic most of us did not have any physical contact, no face to face interaction with friends or anyone. Because of this it may lead to mental illness.
-So to help people we have created a Sentiment detection Application.
+Due to pandemic majority of the family, friends and relatives did not have any physical contact or any face to face interaction. Isolation and quarantine has affected mentally and physically. People had to distance themselves from their loved ones due to coronavirus. All these things might lead to mental illness.
+So ,to help people track their mental health, we have created a Sentiment Detection Application.
 <br>
 This project consists of sentiment analysis of employees on various entities and visualizes the output to you using Power BI.
 
